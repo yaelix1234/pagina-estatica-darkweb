@@ -660,3 +660,47 @@ table {
     border-left: 3px solid #8b0000;
     color: #e08080;
 }
+/* =========================
+   FOOTER
+========================= */
+
+.footer {
+    background: #0d0d0d;
+    border-top: 1px solid #333;
+    padding: 15px 20px;
+    text-align: center;
+    font-size: 0.8rem;
+    color: #999;
+}
+
+.footer-redes {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 10px;
+    font-family: "Courier New", monospace;
+    font-size: 0.8rem;
+}
+
+.footer-legal {
+    margin-top: 8px;
+    font-size: 0.75rem;
+}
+
+.footer-legal a {
+    color: #666;
+}
+
+.footer-legal a:hover {
+    color: #8b0000;
+}
+
+/* =========================
+   PÁGINAS CORTAS (Contacto, Aviso, Home)
+========================= */
+
+.archive-simple {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 10px 12px 40px;
+}

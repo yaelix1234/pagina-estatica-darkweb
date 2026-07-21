@@ -18,6 +18,7 @@ function Navbar() {
                 <Link to="/galeria">Galería</Link>
                 <Link to="/testimonios">Testimonios</Link>
                 <Link to="/aliados">Aliados</Link>
+                <Link to="/contacto">Contacto</Link>
                 <Link to="/acerca">Acerca</Link>
 
             </div>

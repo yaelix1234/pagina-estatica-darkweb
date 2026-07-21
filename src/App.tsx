@@ -14,6 +14,8 @@ import Galeria from "./pages/Galeria";
 import Testimonios from "./pages/Testimonios";
 import Aliados from "./pages/Aliados";
 import Error404 from "./pages/Error404";
+import Contacto from "./pages/Contacto";
+import AvisoPrivacidad from "./pages/AvisoPrivacidad";
 
 
 function App() {
@@ -39,6 +41,8 @@ function App() {
             <Route path="/galeria" element={<Galeria />} />
             <Route path="/testimonios" element={<Testimonios />} />
             <Route path="/aliados" element={<Aliados />} />
+            <Route path="/contacto" element={<Contacto />} />
+            <Route path="/aviso-privacidad" element={<AvisoPrivacidad />} />
             <Route path="/acerca" element={<Acerca />} />
             <Route path="*" element={<Error404 />} />
 
