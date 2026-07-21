@@ -596,3 +596,67 @@ table {
     width: 100%;
     height: 270px;
 }
+
+/* =========================
+   FORMULARIOS
+========================= */
+
+.archive-form {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    max-width: 500px;
+}
+
+.archive-form label {
+    font-family: "Courier New", monospace;
+    font-size: 0.75rem;
+    color: #999;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 10px;
+}
+
+.archive-form input,
+.archive-form select,
+.archive-form textarea {
+    background: #0a0a0a;
+    border: 1px solid #333;
+    color: #ccc;
+    padding: 8px;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 0.9rem;
+}
+
+.archive-form input:focus,
+.archive-form select:focus,
+.archive-form textarea:focus {
+    outline: none;
+    border-color: #8b0000;
+}
+
+.archive-form button {
+    margin-top: 15px;
+    align-self: flex-start;
+}
+
+.archive-form button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.form-status {
+    margin-top: 10px;
+    padding: 8px 10px;
+    font-size: 0.85rem;
+}
+
+.form-status.ok {
+    border-left: 3px solid #2a7a2a;
+    color: #8fce8f;
+}
+
+.form-status.error {
+    border-left: 3px solid #8b0000;
+    color: #e08080;
+}
