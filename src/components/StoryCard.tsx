@@ -1,4 +1,10 @@
-function StoryCard({ image, title, description }) {
+interface StoryCardProps {
+    image: string;
+    title: string;
+    description: string;
+}
+
+function StoryCard({ image, title, description }: StoryCardProps) {
 
     return (
 
