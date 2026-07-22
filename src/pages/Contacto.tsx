@@ -52,7 +52,7 @@ function Contacto() {
       </PostBlock>
 
       <PostBlock numero="601" fecha="">
-        <form onSubmit={handleSubmit} className="archive-form">
+        <form onSubmit={handleSubmit} className="archive-form flex flex-col gap-2">
 
           <label htmlFor="nombre">Nombre</label>
           <input

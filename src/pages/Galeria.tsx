@@ -21,7 +21,7 @@ function Galeria() {
       <PostBlock id="imagenes" numero="201" fecha="" tag="8 ARCHIVOS">
         <h2>Imágenes recuperadas</h2>
 
-        <div className="gallery-grid">
+        <div className="gallery-grid grid sm:grid-cols-2 md:grid-cols-4 gap-3">
 
           <figure>
             <img

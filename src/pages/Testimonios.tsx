@@ -21,7 +21,7 @@ function Testimonios() {
       <PostBlock id="testimonios" numero="301" fecha="" tag="ANÓNIMO">
         <h2>Experiencias compartidas</h2>
 
-        <div className="testimonio-grid">
+        <div className="gallery-grid grid sm:grid-cols-2 md:grid-cols-4 gap-3">
 
           <div className="testimonio-card">
             <p className="cita">

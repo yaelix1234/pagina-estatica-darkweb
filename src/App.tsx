@@ -16,6 +16,7 @@ import Aliados from "./pages/Aliados";
 import Error404 from "./pages/Error404";
 import Contacto from "./pages/Contacto";
 import AvisoPrivacidad from "./pages/AvisoPrivacidad";
+import Terminos from "./pages/Terminos";
 
 
 function App() {
@@ -42,6 +43,7 @@ function App() {
             <Route path="/testimonios" element={<Testimonios />} />
             <Route path="/aliados" element={<Aliados />} />
             <Route path="/contacto" element={<Contacto />} />
+            <Route path="/terminos" element={<Terminos />} />
             <Route path="/aviso-privacidad" element={<AvisoPrivacidad />} />
             <Route path="/acerca" element={<Acerca />} />
             <Route path="*" element={<Error404 />} />

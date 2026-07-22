@@ -20,7 +20,9 @@ function Footer() {
             </p>
 
             <p className="footer-legal">
-                <a href="/aviso-privacidad">Aviso de Privacidad y Términos Legales</a>
+                <a href="/aviso-privacidad">Aviso de Privacidad</a>
+                 {" · "}
+                <a href="/terminos">Términos y Condiciones</a>
             </p>
 
         </footer>

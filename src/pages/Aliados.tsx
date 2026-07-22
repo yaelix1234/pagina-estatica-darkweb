@@ -22,7 +22,7 @@ function Aliados() {
       <PostBlock id="colaboradores" numero="401" fecha="" tag="4 GRUPOS">
         <h2>Colaboradores</h2>
 
-        <div className="aliados-grid">
+        <div className="aliados-grid grid sm:grid-cols-2 gap-3">
 
           <div className="aliado-card">
             <h3>Nocturnal Research Group</h3>

@@ -11,7 +11,7 @@ interface PostBlockProps {
 function PostBlock({ id, numero, fecha, tag, children }: PostBlockProps) {
   return (
     <div className="post" id={id}>
-      <div className="post-header">
+      <div className="post-header flex flex-wrap items-center gap-2">
         <span className="post-no">No.{numero}</span>
         <span className="post-meta">{fecha}</span>
         {tag && <span className="post-tag">{tag}</span>}
