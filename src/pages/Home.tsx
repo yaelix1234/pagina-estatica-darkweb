@@ -156,7 +156,7 @@ function Home() {
 
                     height="400"
 
-                    src="https://youtu.be/bYQOQhQWktI?si=3m8cendPg5T_IaYJ"
+                    src="https://www.youtube.com/embed/jNQXAC9IVRw"
 
                     title="Investigación paranormal"
 

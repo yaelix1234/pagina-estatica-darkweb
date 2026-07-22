@@ -109,7 +109,7 @@ function Galeria() {
           <iframe
             width="100%"
             height="270"
-            src="https://youtu.be/H4dGpz6cnHo?si=UOAgQo4Hd8RW96Q9"
+            src="https://www.youtube.com/embed/dQw4w9WgXcQ"
             title="Video de investigación del archivo"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
