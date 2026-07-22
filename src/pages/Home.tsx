@@ -27,7 +27,7 @@ function Home() {
             id: "habitacion-nadie-usa",
 
             image:
-            "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23",
+            "https://imgs.search.brave.com/QVS88WoKDKCgM_8XOkYAx9wCQz6KWUOAnuzV8b7Jtoc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2UyLzg5/LzYxL2UyODk2MTc2/MTlkZjY0NDQ0NjQ3/YTEzZDQ4MTM3MGI0/LmpwZw",
 
             title:
             "La habitación que nadie usa",
@@ -156,7 +156,7 @@ function Home() {
 
                     height="400"
 
-                    src="https://www.youtube.com/embed/jNQXAC9IVRw"
+                    src="https://youtu.be/bYQOQhQWktI?si=3m8cendPg5T_IaYJ"
 
                     title="Investigación paranormal"
 

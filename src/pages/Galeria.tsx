@@ -34,7 +34,7 @@ function Galeria() {
 
           <figure>
             <img
-              src="https://depositphotos.com/mx/photos/miedo.html"
+              src="https://imgs.search.brave.com/cF56P1MM50sKLB0r9-jjzzwQDfvqg_X5MG089Xva6uM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2M3LzMw/LzBhL2M3MzAwYWI2/NDc1ODg1NzFmYjA1/MDAwMjNjNjliNTVk/LmpwZw"
               alt="Habitación cerrada en casa antigua"
               loading="lazy"
             />
@@ -43,7 +43,7 @@ function Galeria() {
 
           <figure>
             <img
-              src="https://biblioteca.fldm.edu.mx/blog/Creepypastas"
+              src="https://imgs.search.brave.com/_UtMyrhRoAgS-fDct7wFxPDSB5zJKu8aNKkDXl6tKgk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2IwL2I1/L2IyL2IwYjViMjAw/YWY1MzFmZWJkNjFk/ZTJiODA5YzEzYmRk/LmpwZw"
               alt="Pasillo de hospital abandonado"
               loading="lazy"
             />
@@ -52,7 +52,7 @@ function Galeria() {
 
           <figure>
             <img
-              src="https://es.slideshare.net/slideshow/creepypastas-100721251/100721251"
+              src="https://imgs.search.brave.com/zqWaB5hIUHO_rrNbyFbOxl26p01euUms5aJC_G9701U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wYWxv/bWF5bmFjaG8uY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI1/LzA0L3ZpbGxhbm9z/LXRlcnJvci1zaWds/by1YWEktUmFwdG9y/LmpwZw"
               alt="Radio antigua de los años 60"
               loading="lazy"
             />
@@ -61,8 +61,8 @@ function Galeria() {
 
           <figure>
             <img
-              src="https://www.aullidos.com/especiales/431/mejores-creepypastas-terror/"
-              alt="Sendero en bosque con niebla"
+              src="https://imgs.search.brave.com/ge2kHemEMEW7OUD1Yt8eDokhObUj4WBEL0OSzAzwKME/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2RjL2Ey/L2NiL2RjYTJjYjAx/YjhkMjk0NjQ2MWEz/MzYxN2Y1MGQzMTRi/LmpwZw"
+              alt="Ayuwoki"
               loading="lazy"
             />
             <figcaption>#031 — Sendero</figcaption>
@@ -70,8 +70,8 @@ function Galeria() {
 
           <figure>
             <img
-              src="https://www.unimart.com/products/creepypastas-historias-de-terror-2-0"
-              alt="Teléfono antiguo"
+              src="https://imgs.search.brave.com/zerVk1QVzFb41BN-RL8nYzbRoTEr656h06eQoyzzOqs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2ZkL2My/L2Y2L2ZkYzJmNjhi/OGVhZWM5MDExMDNm/MzE3YjA0MDU3MjQ3/LmpwZw"
+              alt="Jeff the nigger"
               loading="lazy"
             />
             <figcaption>#058 — La llamada</figcaption>
@@ -79,7 +79,7 @@ function Galeria() {
 
           <figure>
             <img
-              src="https://indefenseofthehorror.wordpress.com/2017/10/03/top-13-classic-creepypastas/"
+              src="https://imgs.search.brave.com/m191AwFchdxE_DCN5ZnAzWproBC68UgLwdVAVsldM4Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/My5leHBhbnNpb24u/bXgvZGltczQvZGVm/YXVsdC8wZmYwY2Q1/LzIxNDc0ODM2NDcv/c3RyaXAvdHJ1ZS9j/cm9wLzEwNzh4NjA3/KzArMC9yZXNpemUv/NjAweDMzOCEvZm9y/bWF0L3dlYnAvcXVh/bGl0eS82MC8_dXJs/PWh0dHBzOi8vY2Ru/LTMuZXhwYW5zaW9u/Lm14LzM2LzFmL2M1/YjNiMjE5NGE4NDhh/NTJlNTViZTExZDAz/NGYvY2FwdHVyYS1k/ZS1wYW50YWxsYS0y/MDE5LTEwLTMxLWEt/bGFzLTkuMTQuMTEu/cG5n"
               alt="Fotografía familiar antigua"
               loading="lazy"
             />
@@ -88,7 +88,7 @@ function Galeria() {
 
           <figure>
             <img
-              src="https://infinityideas.studio/curiosidades-de-la-literatura/ranking-de-los-12-creepypastas-mas-populares/"
+              src="https://imgs.search.brave.com/Nlp4JdxV_8ZEAtl-cuK7iOmTEJ63QGtNUlYiWk2Qu14/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzkyLzlj/L2UxLzkyOWNlMTdh/ODZjOGUxMDNkZDI3/MzRkNzE1ZTBiMjYx/LmpwZw"
               alt="Sótano oscuro de casa abandonada"
               loading="lazy"
             />
@@ -109,7 +109,7 @@ function Galeria() {
           <iframe
             width="100%"
             height="270"
-            src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+            src="https://youtu.be/H4dGpz6cnHo?si=UOAgQo4Hd8RW96Q9"
             title="Video de investigación del archivo"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
