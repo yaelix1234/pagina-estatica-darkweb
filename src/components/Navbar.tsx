@@ -20,6 +20,8 @@ function Navbar() {
                 <Link to="/aliados">Aliados</Link>
                 <Link to="/contacto">Contacto</Link>
                 <Link to="/acerca">Acerca</Link>
+                <Link to="/aviso-privacidad">Aviso de Privacidad</Link>
+                <Link to="/terminos">Términos</Link>
 
             </div>
 

@@ -25,7 +25,7 @@ function Galeria() {
 
           <figure>
             <img
-              src="https://source.unsplash.com/400x300/?abandoned,road,fog,night"
+              src="https://depositphotos.com/mx/photos/miedo.html"
               alt="Carretera abandonada con niebla nocturna"
               loading="lazy"
             />
@@ -34,7 +34,7 @@ function Galeria() {
 
           <figure>
             <img
-              src="https://source.unsplash.com/400x300/?abandoned,house,dark,room"
+              src="https://depositphotos.com/mx/photos/miedo.html"
               alt="Habitación cerrada en casa antigua"
               loading="lazy"
             />
@@ -43,7 +43,7 @@ function Galeria() {
 
           <figure>
             <img
-              src="https://source.unsplash.com/400x300/?abandoned,hospital,asylum,corridor"
+              src="https://biblioteca.fldm.edu.mx/blog/Creepypastas"
               alt="Pasillo de hospital abandonado"
               loading="lazy"
             />
@@ -52,7 +52,7 @@ function Galeria() {
 
           <figure>
             <img
-              src="https://source.unsplash.com/400x300/?vintage,radio,old"
+              src="https://es.slideshare.net/slideshow/creepypastas-100721251/100721251"
               alt="Radio antigua de los años 60"
               loading="lazy"
             />
@@ -61,7 +61,7 @@ function Galeria() {
 
           <figure>
             <img
-              src="https://source.unsplash.com/400x300/?dark,forest,trail,fog"
+              src="https://www.aullidos.com/especiales/431/mejores-creepypastas-terror/"
               alt="Sendero en bosque con niebla"
               loading="lazy"
             />
@@ -70,7 +70,7 @@ function Galeria() {
 
           <figure>
             <img
-              src="https://source.unsplash.com/400x300/?old,telephone,vintage"
+              src="https://www.unimart.com/products/creepypastas-historias-de-terror-2-0"
               alt="Teléfono antiguo"
               loading="lazy"
             />
@@ -79,7 +79,7 @@ function Galeria() {
 
           <figure>
             <img
-              src="https://source.unsplash.com/400x300/?old,photograph,vintage,family"
+              src="https://indefenseofthehorror.wordpress.com/2017/10/03/top-13-classic-creepypastas/"
               alt="Fotografía familiar antigua"
               loading="lazy"
             />
@@ -88,7 +88,7 @@ function Galeria() {
 
           <figure>
             <img
-              src="https://source.unsplash.com/400x300/?basement,dark,abandoned"
+              src="https://infinityideas.studio/curiosidades-de-la-literatura/ranking-de-los-12-creepypastas-mas-populares/"
               alt="Sótano oscuro de casa abandonada"
               loading="lazy"
             />
