@@ -25,7 +25,7 @@ function Galeria() {
 
           <figure>
             <img
-              src="https://depositphotos.com/mx/photos/miedo.html"
+              src="https://imgs.search.brave.com/OWMyDGAaiSyLyFnc8S9oyP2jIRFyHI9j--VRyXov8oU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kb3Np/c2RldGVycm9yLndv/cmRwcmVzcy5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTgv/MDcvdmhzLXBlbGlj/dWxhcy10ZXJyb3It/cGVydHVyYmFkb3Jh/cy5qcGc_dz00MzA"
               alt="Carretera abandonada con niebla nocturna"
               loading="lazy"
             />
